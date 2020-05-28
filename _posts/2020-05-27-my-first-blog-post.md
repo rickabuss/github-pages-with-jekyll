@@ -1,4 +1,3 @@
-
 ---
 do I need a line here?
 title: "RTC Validation"
